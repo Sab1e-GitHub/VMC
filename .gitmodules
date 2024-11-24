@@ -1,0 +1,9 @@
+[submodule "VMC_Main_Device"]
+	path = VMC_Main_Device
+	url = https://github.com/Sab1e-GitHub/VMC_Main_Device
+[submodule "VMC_Ble_Device"]
+	path = VMC_Ble_Device
+	url = https://github.com/Sab1e-GitHub/VMC_Ble_Device
+[submodule "VMC_Lite"]
+	path = VMC_Lite
+	url = https://github.com/Sab1e-GitHub/VMC_Lite
